@@ -48,3 +48,11 @@ altura<- 10
 AreaRectangulo <- base*altura
 ```
 
+## Área trapecio
+```{r}
+B<- 10
+b<- 6
+h<-4
+AreaTrapecio<- ((B+b)*h)/2
+```
+
