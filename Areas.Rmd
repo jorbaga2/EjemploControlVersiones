@@ -24,8 +24,20 @@ Area<-pi*r^2
 ## Área cuadrado
 
 
-```{r}
+```{r pressure, echo=FALSE}
 Lado <- 3
 AreaCuadrado <- Lado ^2
+```
+
+
+
+## Área triángulo
+
+```{r pressure, echo=FALSE}
+base <- 8
+altura <- 10
+AreaTriangulo <- (base*altura)/2
+AreaTriangulo
+```
 
 
