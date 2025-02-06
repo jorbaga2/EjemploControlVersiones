@@ -40,4 +40,11 @@ AreaTriangulo <- (base*altura)/2
 AreaTriangulo
 ```
 
+## Área rectángulo
+
+```{r pressure, echo=FALSE}
+base<- 15
+altura<- 10
+AreaRectangulo <- base*altura
+```
 
